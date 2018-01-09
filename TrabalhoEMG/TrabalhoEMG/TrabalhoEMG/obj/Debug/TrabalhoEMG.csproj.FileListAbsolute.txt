@@ -1,0 +1,90 @@
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe.config
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.pdb
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csprojResolveAssemblyReference.cache
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Properties.Resources.resources
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csproj.GenerateResource.Cache
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.exe
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.pdb
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Registo.resources
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe.config
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.exe
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.pdb
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.pdb
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Properties.Resources.resources
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Registo.resources
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csproj.GenerateResource.Cache
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Exame.resources
+C:\Users\Marcelo Ferreira\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.SplashScreen.resources
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Exame.resources
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.SplashScreen.resources
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\BITalino_x86.dll
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\BITalino_x86.xml
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.dll
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.dll
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.pdb
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.xml
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.pdb
+F:\Escola\2º Ano\Trabalho, prog,esta,eletr\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe.config
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.exe
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.pdb
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.pdb
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.dll
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.pdb
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.xml
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Exame.resources
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.ListaExames.resources
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.SplashScreen.resources
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Properties.Resources.resources
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Registo.resources
+C:\Users\Ana\Downloads\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csproj.GenerateResource.Cache
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.dll
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.dll
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe.config
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.pdb
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.xml
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.xml
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Exame.resources
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.ListaExames.resources
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.SplashScreen.resources
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Properties.Resources.resources
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Registo.resources
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csproj.GenerateResource.Cache
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.exe
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.pdb
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.pdb
+E:\2ºANO\1S\TRABALHO\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe.config
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.exe
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.pdb
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.pdb
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.dll
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.pdb
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.xml
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Exame.resources
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.ListaExames.resources
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.SplashScreen.resources
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.Registo.resources
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\BITalino_x86.dll
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\bin\Debug\BITalino_x86.xml
+C:\Users\Marcelo\Desktop\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.ServiçosDeProcurar.resources
+C:\Users\Marcelo\Documents\TrabalhoEMG\TrabalhoEMG\bin\Debug\TrabalhoEMG.exe.config
+C:\Users\Marcelo\Documents\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.exe
+C:\Users\Marcelo\Documents\TrabalhoEMG\TrabalhoEMG\obj\Debug\TrabalhoEMG.pdb

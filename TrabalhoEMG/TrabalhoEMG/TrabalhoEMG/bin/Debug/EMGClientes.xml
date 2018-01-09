@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<clientes_Dataset>
+  <Clientes>
+    <Nome>Marcelo Ferreira</Nome>
+    <Data_x0020_de_x0020_Nascimento>14/07/1998 18:40:45</Data_x0020_de_x0020_Nascimento>
+    <Género>Masculino</Género>
+    <ID_x0020_Do_x0020_Cliente>1513881670318</ID_x0020_Do_x0020_Cliente>
+  </Clientes>
+</clientes_Dataset>

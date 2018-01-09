@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<clientes_Dataset>
+  <Clientes>
+    <Nome>Marcelo Ferreira</Nome>
+    <Data_x0020_de_x0020_Nascimento>09/01/2018 15:45:06</Data_x0020_de_x0020_Nascimento>
+    <Género>Masculino</Género>
+    <ID_x0020_Do_x0020_Cliente>1515512731187</ID_x0020_Do_x0020_Cliente>
+    <Peso_x0020_Do_x0020_Cliente>60</Peso_x0020_Do_x0020_Cliente>
+    <Prática_x0020_de_x0020_Desporto>True</Prática_x0020_de_x0020_Desporto>
+  </Clientes>
+  <Clientes>
+    <Nome>Ana Duarte</Nome>
+    <Data_x0020_de_x0020_Nascimento>09/01/2018 15:45:06</Data_x0020_de_x0020_Nascimento>
+    <Género>Feminino</Género>
+    <ID_x0020_Do_x0020_Cliente>1515512743015</ID_x0020_Do_x0020_Cliente>
+    <Peso_x0020_Do_x0020_Cliente>60</Peso_x0020_Do_x0020_Cliente>
+    <Prática_x0020_de_x0020_Desporto>False</Prática_x0020_de_x0020_Desporto>
+  </Clientes>
+</clientes_Dataset>
